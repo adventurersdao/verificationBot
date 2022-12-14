@@ -10,6 +10,6 @@ I also know this is not a ground breaking thing, just my own small little contri
 
 9gMJ8RbWipcBaWQh1QV2i14BAf11M3JZqeTLwnamh8A7ud4DgHy
 
-I never stoped working on this bot, and now for my NFT project (https://twitter.com/ErgoAdventurers) we have a game where you can train and level up your NFTs. Join our community if you would like to try it out!
+I never stoped working on this bot, and now for my NFT project (https://twitter.com/AdventurersDAO) we have a game where you can train and level up your NFTs. Join our community if you would like to try it out!
 
 Thank you.
